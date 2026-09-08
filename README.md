@@ -94,6 +94,6 @@ The reported figures are validation results on 340 images, not scores from an in
 
 **Simon Gobin** - MSc Artificial Intelligence
 
-- [Portfolio](https://simon-gobin-portfolio.gemma-simon-gobin.chatgpt.site)
+- [Portfolio](https://simon-gobin-portfolio.vercel.app)
 - [GitHub](https://github.com/simon-gobin)
 
